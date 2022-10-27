@@ -1,19 +1,18 @@
-# DTS REA4 Final Project
+# DTS REA4 Final Project Pair 29
 
-Ketentuan lengkap bisa dilihat di [Final Project Guidelines](https://docs.google.com/document/d/122KyWNQ4xxU4aFwWbM4vIfH7LM4AH2CZEZa3YsEHjCk). 
+## Member
 
-## Daftar pair
+- Agung Pratama (1523649113101701)
+- Fachri Arief Rachman Agustian (1523649113101654)
 
-Tugas dikerjakan secara berpasangan, untuk daftar kelompok bisa dilihat pada masing-masing Classroom atau Discord Class.
+## Feature
 
-## Fork and Clone
-
-Mohon perwakilan dari pair bisa melakukan fork repo ini dan clone, untuk repositori yang di fork menggunakan penamaan:
-
-`dts4[a/b/c]-[nomor pair]-final`
-
-Contoh: `dts4a-01-final`
-
-## Branching, commit
-
-Branch dapat sesuai dengan kebutuhan dan kesepakatan bersama dalam pair, namun hasil akhirnya harus di merge ke branch `main` dan di push ke Github. Pastikan hasil akhir kode sudah ter-push!
+- [ ] Fetch Data from 3rd Party API (https://goweather.herokuapp.com/)
+- [ ] Login
+- [ ] Logout
+- [ ] Register
+- [x] Halaman Utama
+- [ ] Halaman Detail
+- [ ] Additional Feature
+  - [ ] Search City
+  - [ ] Add City to Favorite
