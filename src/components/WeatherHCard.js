@@ -1,6 +1,6 @@
 const WeatherHCard = (props) => {
     return (
-        <div className="w-full flex-1 bg-blue-700/50 rounded-xl px-4 py-2 backdrop-blur shadow-md justify-items-center flex flex-col justify-between">
+        <div className="w-full flex-1 bg-white/10 p-4 rounded-xl backdrop-blur items-center justify-center flex text-center hover:drop-shadow flex-col">
             <h3 className="text-center font-semibold">Day +1</h3>
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                  stroke="currentColor" className="w-24 h-24 mx-auto">

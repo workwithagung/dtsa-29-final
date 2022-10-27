@@ -12,7 +12,7 @@
 - [ ] Logout
 - [ ] Register
 - [x] Halaman Utama
-- [ ] Halaman Detail
+- [x] Halaman Detail
 - [ ] Additional Feature
   - [ ] Search City
   - [ ] Add City to Favorite
